@@ -17,7 +17,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享所学',
   HEO_HERO_TITLE_2: '与热爱生活',
-  HEO_HERO_TITLE_3: '',
+  HEO_HERO_TITLE_3: 'PandaのCode-log',
   HEO_HERO_TITLE_4: '我的博文',
   HEO_HERO_TITLE_5: '推荐您看看这些🌹',
   HEO_HERO_TITLE_LINK: 'https://pandacodingvlog.vercel.app/article/hello',
