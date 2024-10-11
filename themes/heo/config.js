@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享所学',
-  HEO_HERO_TITLE_2: '与热爱生活',
+  HEO_HERO_TITLE_1: '一个无聊了会',
+  HEO_HERO_TITLE_2: '写点文章的大学牲',
   HEO_HERO_TITLE_3: 'PandaのCode-log',
   HEO_HERO_TITLE_4: '我的博文',
   HEO_HERO_TITLE_5: '推荐您看看这些🌹',
